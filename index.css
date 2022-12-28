@@ -1,0 +1,83 @@
+body {
+    /* margin: 0; */
+    background: #E8F1EB;
+    font-family: 'Roboto', sans-serif;
+}
+ h1 .col {
+    color:#4ADF86;
+}
+.pass-box{
+   text-align: center;
+   background: #1F2937;
+   height: 400px;
+   width: 500px;
+   margin: 0 auto;
+   color: #FFFFFF;
+   padding-top: 40px;
+   border: 5px solid #FEFEFE;
+   border-radius: 20px;
+}
+.h {
+    margin-left: 0px;
+    margin-top: 50px;
+    
+    
+}
+.h h1 {
+    margin-left: -285px;
+    font-weight: bold;
+}
+.hh h1 {
+    margin-left: -180px;
+    font-weight: bold;
+}
+.hh {
+    margin-top: -20px;
+   
+}
+h1 {
+    /* margin-left: 0px; */
+    margin-bottom: 8px;
+    
+}
+p {
+    margin-top: 0px;
+    margin-left: -170px;
+}
+.btn {
+    margin-top: 40px;
+  
+
+}
+.btn button{
+    background-color: #10B982;
+    border: none;
+    padding: 9px 15px 9px 15px;
+    border-radius: 5px;
+    color: #CBFBEC;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    margin-left: -265px;
+}
+.line {
+    margin-top: 20px;
+    background: #F2F8F7;
+    height: 1px;
+    margin-left: 35px;
+    width: 300px;
+}
+.holder {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.phold {
+    background-color: #273549;
+    width: 130px;
+    height: 24px;
+    margin-left: -45px;
+    border-radius: 5px;
+}
